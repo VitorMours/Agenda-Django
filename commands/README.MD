@@ -1,0 +1,2 @@
+# Projeto com Django
+O intuito desse repositório e desse projeto, é um estudo mais aprofundado de Django, para que posteriormente seu estudo em conjunto com banco de dados seja feito de forma ainda mais aprofundada.
